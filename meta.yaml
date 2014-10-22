@@ -1,0 +1,9 @@
+package_name: tito
+version: 0.10.0dev
+license: GPLv2+
+authors: [Miroslav Suchý <msuchy@redhat.com>]
+homepage: https://github.com/devassistant/dap-tito
+summary: Tito snippet to use in other assistants
+bugreports: https://github.com/devassistant/dap-tito/issues
+description: |
+    Snippet that runs tito init in assistants, where you want it
